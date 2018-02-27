@@ -1,4 +1,4 @@
-# java_enigmamachine
+# enigmamachine
 A quick Java implementation of the famous Enigma Machine
 
 The Enigma Machine is worth reading about if you've stumbled onto this repo and don't know what it is! Here's the link to the [Enigma Machine](https://en.wikipedia.org/wiki/Enigma_machine).
